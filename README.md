@@ -27,3 +27,11 @@ A `docker-compose.yml` file is provided at the root of the repository. It orches
    ```bash
    git clone https://github.com/HackiodTech/docker2.git
    cd docker2
+
+## Getting Started
+
+To get started with this template, please follow the instructions in the respective directories:
+
+- [Frontend README](./frontend/README.md)
+- [Backend README](./backend/README.md)
+
